@@ -5,6 +5,9 @@
 </div>
 
 <p align="center">
+  <a href="https://gurusumanth.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive_Portfolio-gurusumanth.github.io-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/sumanth-g-2892b7285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
