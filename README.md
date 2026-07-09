@@ -11,62 +11,98 @@
   <a href="mailto:sumanth121314@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://gkgroups.guru/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-gkgroups.guru-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Fintech Entrepreneur & Businessman**, serving as the **Founder & Managing Director of GK Groups** (Estd. 1993). I oversee a diversified business portfolio across multiple sectors:
-*   🏦 **GK Finserv:** Specializing in Chit Funds, Stock Market Trading & Investment, Personal/Gold/Vehicle Loans, and Portfolio Advisory.
-*   📱 **JSM Cell Corner:** Handling electronics imports, sales, repairs, and billing services.
-*   💻 **GK IT Services:** Leading job consulting, project assistance, and support services.
+I am a **Fintech Entrepreneur & Businessman**, serving as the **Founder & Managing Director of GK Groups** (Estd. 1993). I oversee a diversified business portfolio across multiple sectors. 
 
-My background in Computer Science (B.Tech CSE) and Business Administration (MBA Finance) allows me to bridge technology and commerce—spearheading the digitalization of traditional financial routines at [gkgroups.guru](https://gkgroups.guru/).
+My academic foundation includes a **B.Tech in Computer Science** (GMRIT) and an **MBA in Finance** (Vignan University). This dual background allows me to bridge technology and commerce, directing the custom software development to digitalize traditional financial workflows under our conglomerate.
 
-- 🔭 I’m currently focused on **digitalizing and automating GK Groups' services** (including real-time chit fund auctions and billing systems).
+- 🔭 I’m currently focused on **digitalizing and automating GK Groups' services** at [gkgroups.guru](https://gkgroups.guru/) (including real-time chit fund auctions and billing systems).
 - 🎓 I hold an **MBA in Finance** from Vignan University and a **B.Tech in Computer Science** from GMR Institute of Technology.
 - 💬 Ask me about **Chit Funds, Gold & Vehicle Loans, Stock Trading Strategy, or Business Expansion**.
 - 📫 How to reach me: sumanth121314@gmail.com
 
 ---
 
-## 🛠️ Business & Leadership Arsenal
+## 🏢 GK Groups Business Sectors (ESTD 1993)
 
-### **Finance & Administration**
-![Chit Funds](https://img.shields.io/badge/Chit_Funds_&_Loans-008080?style=flat)
-![Stock Markets](https://img.shields.io/badge/Stock_Markets_Trading-008000?style=flat)
-![Portfolio Management](https://img.shields.io/badge/Portfolio_Advisory-FF6F00?style=flat)
-![Financial Auditing](https://img.shields.io/badge/Financial_Audits-0078D4?style=flat)
-![Customer Relations](https://img.shields.io/badge/Customer_Relations-8B5CF6?style=flat)
-![Business Strategy](https://img.shields.io/badge/Business_Strategy-e03e2f?style=flat)
+Our organization operates across three major commercial divisions in Visakhapatnam and Hyderabad:
 
-### **Digital Automation & Technology**
-![React](https://img.shields.io/badge/React_Vite-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx_Routing-009639?style=flat&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=flat&logo=cloudflare&logoColor=white)
+### 🏦 **GK Finserv**
+*A comprehensive financial services division offering specialized capital and investment management:*
+*   **Chit Funds:** Real-time bidding auctions and monthly accounting sync.
+*   **Asset Loans:** Gold loans, vehicle loans, and credit renewals.
+*   **Trading & Advisory:** Stock market trading, investment strategy, and forex conversion.
+*   **Portfolio Management:** Debts tracking, savings bookings, and general audits.
+
+### 📱 **JSM Cell Corner**
+*An electronics retail, import, and utility services division:*
+*   **Electronics Imports:** Sourcing and imports of smartphones, laptops, TVs, and smartwatches.
+*   **Retail & Maintenance:** Electronic accessory sales, repairs, and device refurbishing.
+*   **Utilities:** Mobile recharges, DTH connections, travel bookings, and bill payments.
+
+### 💻 **GK IT Services**
+*Technology support, recruitment, and professional certification training:*
+*   **Job Consulting:** IT and non-IT recruitment workflows for freshers and experienced candidates.
+*   **Tech Support:** Dedicated infrastructure and technical assistance contracts.
+*   **Training & Certifications:** Course certifications, developer training, and academic project assistance.
 
 ---
 
 ## 💼 Professional Experience
 
-*   **Founder & Managing Director** @ **GK Groups / GK FINSERV** (*Jan 2024 - Present*)
-    *   Overseeing diversified business operations across finance, retail electronics, and job consultancy in Visakhapatnam and Hyderabad.
-    *   Spearheading the custom software development for real-time auctions, client billing portals, and invoice tracking to digitalize financial routines.
-*   **Digital Sales Manager** @ **USDC Global** (*Apr 2024 - Dec 2024*)
-    *   Managed client relations and spearheaded sales team coordination to resolve operational challenges.
-*   **Junior Software Developer** @ **TCS** (*Oct 2021 - Sep 2022*)
-    *   Collaborated on application development, starting my professional career in software engineering.
+### 🏢 **Founder & Managing Director** | **GK Groups / GK FINSERV**
+*Jan 2024 - Present • Hyderabad & Visakhapatnam, India*
+*   Lead executive operations, business strategy, and marketing across three distinct corporate divisions.
+*   Spearhead the custom software architectures (like the GK Finserv Auction Web Application) to automate offline bidding structures and statement invoicing.
+
+### 💼 **Digital Sales Manager** | **USDC Global**
+*Apr 2024 - Dec 2024 • Bengaluru, India*
+*   Coordinated sales team targets, managed client relations, and resolved operational concerns to drive retention.
+
+### 💻 **Junior Software Developer** | **Tata Consultancy Services (TCS)**
+*Oct 2021 - Sep 2022 • Ahmedabad, India*
+*   Worked within development teams on database query writing, troubleshooting bug fixes, and software module designs.
 
 ---
 
 ## 🎓 Education
-*   **Master of Business Administration (MBA - Finance)** — *Vignan's Foundation for Science, Technology & Research* (2022 - 2024)
-*   **Bachelor of Technology (B.Tech - Computer Science)** — *GMR Institute of Technology (GMRIT)* (2017 - 2021)
+
+*   **Master of Business Administration (MBA - Finance)**
+    *   *Vignan's Foundation for Science, Technology & Research* (2022 - 2024)
+*   **Bachelor of Technology (B.Tech - Computer Science)**
+    *   *GMR Institute of Technology (GMRIT)* (2017 - 2021)
+
+---
+
+## 🛠️ Business & Leadership Arsenal
+
+### **Finance & Management**
+*   **Financial Auditing:** Overseeing profit sheets, debt bookings, and internal compliance audits.
+*   **Stock Market Trading:** Formulating investment strategies and asset management parameters.
+*   **Business Operations:** Executing retail strategy, electronics supply chains, and HR recruitment structures.
+*   **Client Relations:** Managing high-value investor relationships and credit risks.
+
+### **Digital Operations & Automation**
+*   **Web Frameworks:** React, Vite, HTML5, CSS3, JavaScript.
+*   **Containerization & DevOps:** Docker, Docker Compose, Nginx Reverse Proxy routing.
+*   **Security & Gateways:** Cloudflare Zero-Trust Network Tunnels.
+*   **Database Management:** PostgreSQL, SQL query writing.
+
+---
+
+## ⚡ Featured Automation Architectures
+
+### **GK Finserv Real-Time Bidding System**
+*An automated containerized web platform designed to digitalize offline chit fund auctions.*
+*   **Goal:** Move manual bidding auctions to a real-time, high-concurrency client portal.
+*   **Architecture:** Designed using a lightweight React/Vite frontend served by Nginx and containerized via Docker.
+*   **Security:** Fronted by Cloudflare Zero-Trust tunnels to host local client databases securely.
+*   **Impact:** Automatically syncs live bids, calculates monthly dues, and generates invoice PDF statements for users.
 
 ---
 
